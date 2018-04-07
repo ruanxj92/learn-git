@@ -8,9 +8,11 @@ Creating a new branch is quick and simple.
 Git is the most advanced distributed version comtrol system. It tracks the changes of all text files, not binary files. Git was created by Linus, who also created linux.
 
 install git on linux(ubuntu):<br>
->sudo apt-get install git
+>sudo apt-get install git<br>
+
 after installing git, the name and email address should be set.<br>
->git config --global user.name "Name"
->git config --global user.email "email@example.com"
+
+>git config --global user.name "Name"<br>
+>git config --global user.email "email@example.com"<br>
 
 
